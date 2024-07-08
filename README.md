@@ -14,5 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - 🌱 I’m currently learning dart & flutter
+
+-
 <a href="https://github.com/halurabiyyu"><img alt="Halur's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=halurabiyyu&show_icons=true&count_private=true&theme=buefy&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="30%"/></a>
   <a href="https://github.com/halurabiyyu"><img alt="Halur's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=halurabiyyu&langs_count=8&layout=compact&theme=buefy&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="30%"/></a>
