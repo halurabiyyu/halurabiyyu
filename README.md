@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning dart & flutter
 
 -
-<a href="https://github.com/halurabiyyu"><img alt="Halur's Github Stats" src="https://github-readme-stats.vercel.app/api?username=halurabiyyu&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=blue-green" height="192px" width="30%"/></a>
-  <a href="https://github.com/halurabiyyu"><img alt="Halur's Top Languages" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=blue-green" height="192px" width="30%"/></a>
+<a href="https://github.com/halurabiyyu"><img alt="Halur's Github Stats" src="https://github-readme-stats.vercel.app/api?username=halurabiyyu&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=buefy"/></a>
+  <a href="https://github.com/halurabiyyu"><img alt="Halur's Top Languages" src="https://github-readme-stats.vercel.app/api?username=halurabiyyu&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=buefy"/></a>
