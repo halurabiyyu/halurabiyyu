@@ -12,8 +12,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🔭 I’m currently working with php & laravel 
-- 🌱 I’m currently learning dart & flutter
+- 🔭 I’m currently working with PHP & Laravel 
+- 🌱 I’m currently learning Dart & Flutter
 
 -
 <!--
